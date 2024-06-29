@@ -1,6 +1,6 @@
-streamlit
-tensorflow
-keras
-numpy
+streamlit==1.36.0
+tensorflow==2.16.2
+keras==3.4.1
+numpy==1.26.4
 string
 pickle
